@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is DSKandikere
 
 <!--
 **DSKandikere/DSKandikere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning how to use github through docs.github.com
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/disha-s-kandikere-4a5380259
